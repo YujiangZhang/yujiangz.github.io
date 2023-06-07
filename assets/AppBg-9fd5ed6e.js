@@ -1,1 +1,0 @@
-import{_ as s,o as e,c,a as t}from"./index-63744460.js";const o={},r={class:"fixed inset-0 w-full min-h-screen bg-[url(@assets/imgs/bg_light.jpg)] dark:bg-[url(@assets/imgs/bg_dark.jpg)] bg-cover bg-fixed"},a=t("div",{class:"w-full h-full backdrop-blur-3xl"},null,-1),l=[a];function n(_,i){return e(),c("div",r,l)}const g=s(o,[["render",n]]);export{g as A};
