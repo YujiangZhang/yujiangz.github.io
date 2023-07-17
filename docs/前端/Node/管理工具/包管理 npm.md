@@ -1,2 +1,0 @@
-- [npm 官网](https://docs.npmjs.com/)
-- [npm 中文网](https://npm.nodejs.cn/)
