@@ -1,1 +1,0 @@
-import{A as t}from"./0ec92863.js";import{d as o,o as s,c as a,a as p,e as c}from"./40d63db9.js";const r={class:"self-mode"},l={class:"p-4 sm:px-8 md:px-16 max-w-[976px] mx-auto"},_=o({__name:"ReadProject",props:{title:{}},setup(m){return(e,d)=>(s(),a("div",r,[p("div",l,[c(t,{title:e.title,path:`/projects/${e.title}.md`},null,8,["title","path"])])]))}});export{_ as default};
